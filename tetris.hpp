@@ -36,7 +36,7 @@ struct piece {
     void print_ascii_art(std::ostream& os) const;
 
     uint32_t side() const;
-    int color() const;
+    uint8_t color() const;
 
 private:
     uint32_t m_side;
