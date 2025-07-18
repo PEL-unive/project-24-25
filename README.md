@@ -498,7 +498,7 @@ Any method that causes unexpected code termination (e.g., `segmentation fault`) 
 
 ### Timeout
 
-Attention: your code must be reasonably fast. We will set a timeout of a few minutes (in reality, a few milliseconds should suffice) for reading files and constructing the corresponding container (see the dataset/ folder for some examples).
+Attention: your code must be reasonably fast. We will set a timeout of a few minutes (in reality, a few milliseconds should suffice) for reading files and constructing the corresponding container.
 
 ### Plagiarism
 
